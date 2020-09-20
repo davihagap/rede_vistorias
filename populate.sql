@@ -15,7 +15,7 @@ INSERT INTO sequence (name) VALUES
     ('magnotta'),
     ('lee');
 
-INSERT INTO movie_sequence (position, movie_id, order_id) VALUES
+INSERT INTO movie_sequence (position, movie_id, sequence_id) VALUES
     (4,1,1),
     (5,2,1),
     (6,3,1),
